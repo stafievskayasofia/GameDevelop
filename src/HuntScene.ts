@@ -1,5 +1,5 @@
 import Phaser from 'phaser';
-import { FONT, gameState, makeButton, showMessage } from './shared';
+import { FONT, gameState, makeButton, showMessage } from './Shared';
 
 // ====== НАСТРОЙКИ — меняй числа здесь ======
 

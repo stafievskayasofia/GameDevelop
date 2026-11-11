@@ -1,6 +1,6 @@
 import Phaser from 'phaser';
 import { HuntScene } from './HuntScene';
-import { FONT, gameState, makeButton, showMessage } from './shared';
+import { FONT, gameState, makeButton, showMessage } from './Shared';
 
 // ====== НАСТРОЙКИ — меняй числа здесь ======
 const PIZZA_PRICE = 10;
